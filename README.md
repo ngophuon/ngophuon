@@ -1,4 +1,4 @@
-[![MasterHead](https://www.1datagroup.com/wp-content/uploads/2020/12/animated-artificial.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Ngô Phương Nam</h1>
 <h3 align="center">Potential AI and Data developer from Vietnam</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
